@@ -80,7 +80,7 @@ a single NVIDIA GeForce RTX 3090 with 24 GB Memory.
 
 1. Train
    ```bash
-   cd experimental/MINet/
+   cd experimental/CMFNet/
    python3 train.py
    ```
 
